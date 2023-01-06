@@ -1,5 +1,8 @@
 # Web-Scraping-NBA-stats Part 1
-The goal of this project is to create a machine learning model to predict the MVP.
+The goal of this project is to create a machine learning model to predict the MVP for each year.
+Here's the tutorial I created for the project if you would like to do it.
+- [Part 1](https://medium.com/@irenenafula/data-analysis-project-web-scraping-nba-stats-part-1-cc425dd9da84)
+- [Part 2](https://medium.com/@irenenafula/data-analysis-project-web-scraping-nba-stats-part-2-a1c97010015d)
 
 ### Tools used
 - Jupyter Notebook
